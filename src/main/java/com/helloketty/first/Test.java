@@ -6,5 +6,6 @@ public class Test {
 		System.out.println("hahah");
 		
 		System.out.println("first_copy");
+		System.out.println("first");
 	}
 }
